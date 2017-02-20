@@ -1,0 +1,22 @@
+{
+  "name": "simple-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadlykayo/simple-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadlykayo/simple-chat/issues"
+  },
+  "homepage": "https://github.com/fadlykayo/simple-chat#readme",
+  "dependencies": {
+    "socket.io": "^1.7.3"
+  }
+}
